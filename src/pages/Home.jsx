@@ -293,7 +293,7 @@ const Home = () => {
                 "
               >
                 <a
-                  href="../../public/MERN_Stack_Developer.pdf"
+                  href="/MERN_Stack_Developer.pdf"
                   download="Sheik_Mohamed_Anzar_Resume.pdf"
                   className="flex items-center gap-2"
                 >
