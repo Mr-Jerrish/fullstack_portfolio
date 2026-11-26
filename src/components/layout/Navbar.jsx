@@ -77,8 +77,8 @@ const Navbar = () => {
 
           {/* Resume */}
           <a
-            href="/MERN_Stack_Developer.pdf"
-            download="Sheik_Mohamed_Anzar_Resume.pdf"
+            href="/Sheik_Mohamed_Anzar_Reactjs_Developer_Resume.pdf"
+            download="Sheik_Mohamed_Anzar_Reactjs_Developer_Resume.pdf"
             className="inline-flex shrink-0 items-center gap-2 rounded-lg bg-blue-600 px-4 py-2.5 text-xs font-semibold text-white transition-all duration-300 hover:-translate-y-0.5 hover:bg-blue-700 hover:shadow-lg hover:shadow-blue-500/20 xl:text-sm"
           >
             <Download size={15} />

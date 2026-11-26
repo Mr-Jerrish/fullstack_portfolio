@@ -22,7 +22,7 @@ const experiences = [
   },
   {
     id: 2,
-    period: "Sep 2024 — Dec 2025",
+    period: "Sep 2024 — Jan 2025",
     location: "Chennai, India",
     role: "MERN Stack Developer Intern",
     company: "FeOS Technologies Pvt. Ltd.",
